@@ -22,6 +22,12 @@ Your task is to create a *single* web page consisting of HTML, CSS, and JavaScri
 
 **Note**: *You may **only** work within the confines of the included scaffold; no external files need to be added to this repo.*
 
+---
+
+## ❖・Rules・❖
+
+Before you begin, **update Node, NPM, ESLint, and Stylelint** via `npm` from your CLI.
+
 ### HTML
 
 * The included `index.html` contains all the HTML required for this project. **Do not** edit it.
