@@ -28,6 +28,17 @@ Your task is to create a *single* web page consisting of HTML, CSS, and JavaScri
 
 Before you begin, **update Node, NPM, ESLint, and Stylelint** via `npm` from your CLI.
 
+### General
+
+* Do not alter the scaffold of this project, especially the `.gitignore` files. Should you need to defeat this rule, explain so in a comment in the code and in a commit message.
+* The user interface of your project should approximate as close as possible the rendering in the video. Visual rules are defined under the **CSS** section below.
+* Do alter any of the images in the `img` folder.
+* Do not add any images to this scaffold.
+* The final rendering of this project should not yield any scroll bars on the page, horizontal or vertical.
+* Author your code according to the included `.editorconfig` rules. (**Do not alter**.)
+* Validate/lint JavaScript according to the included `.eslintrc` rules. (**Do not alter**.)
+* Validate/lint CSS according to the included `.stylelintrc.json` rules. (**Do not alter**.)
+
 ### HTML
 
 * The included `index.html` contains all the HTML required for this project. **Do not** edit it.
