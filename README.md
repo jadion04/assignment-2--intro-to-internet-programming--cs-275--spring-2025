@@ -22,6 +22,12 @@ Your task is to create a *single* web page consisting of HTML, CSS, and JavaScri
 
 **Note**: *You may **only** work within the confines of the included scaffold; no external files need to be added to this repo.*
 
+## ❖・Due・❖
+
+Thursday, 13 March 2025, at 10:00 PM.
+
+---
+
 
 ## ❖・Submission・❖
 
