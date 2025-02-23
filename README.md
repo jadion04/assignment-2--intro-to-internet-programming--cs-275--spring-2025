@@ -101,6 +101,22 @@ Thursday, 13 March 2025, at 10:00 PM.
 
 ---
 
+## ❖・Grading・❖
+
+| Item                                                                     | Points |
+|--------------------------------------------------------------------------|:------:|
+| Assignment fully implemented according to directions and video rendering |   20   |
+| Full Gulp development and production scaffolds in place                  |   20   |
+| Professional code quality across all languages                           |   20   |
+| No JavaScript syntax (via ESLint) errors or warnings                     |   20   |
+| No CSS syntax (via Stylelint) errors or warnings                         |   05   |
+| Only arrow functions used                                                |   03   |
+| Only `let` and, if applicable, `const`, variables used                   |   03   |
+| Formatting via EditorConfig rules followed                               |   03   |
+| No superfluous Gulp tasks included                                       |   03   |
+| Scaffold unaltered                                                       |   03   |
+
+---
 
 ## ❖・Submission・❖
 
