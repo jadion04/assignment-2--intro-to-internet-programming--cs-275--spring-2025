@@ -97,7 +97,7 @@ As mentioned in the introduction, you must employ Gulp as the task runner with w
 
 ## ❖・Due・❖
 
-Tuesday, 18 March 2025, at 10:00 PM.
+Thursday, 13 March 2025, at 10:00 PM.
 
 ---
 
